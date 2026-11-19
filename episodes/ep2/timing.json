@@ -1,0 +1,2012 @@
+{
+ "voice": "user_audio",
+ "speed": 1.0,
+ "total": 146.02,
+ "shots": [
+  {
+   "id": 1,
+   "start": 0.0,
+   "end": 5.9,
+   "words": [
+    {
+     "w": "Imagine",
+     "start": 0.0,
+     "end": 0.5
+    },
+    {
+     "w": "living",
+     "start": 0.5,
+     "end": 0.86
+    },
+    {
+     "w": "in",
+     "start": 0.86,
+     "end": 1.04
+    },
+    {
+     "w": "a",
+     "start": 1.04,
+     "end": 1.22
+    },
+    {
+     "w": "time",
+     "start": 1.16,
+     "end": 1.48
+    },
+    {
+     "w": "when",
+     "start": 1.48,
+     "end": 1.76
+    },
+    {
+     "w": "a",
+     "start": 1.76,
+     "end": 1.94
+    },
+    {
+     "w": "simple",
+     "start": 1.88,
+     "end": 2.32
+    },
+    {
+     "w": "handful",
+     "start": 2.32,
+     "end": 2.74
+    },
+    {
+     "w": "of",
+     "start": 2.74,
+     "end": 3.02
+    },
+    {
+     "w": "salt",
+     "start": 3.02,
+     "end": 3.38
+    },
+    {
+     "w": "could",
+     "start": 3.38,
+     "end": 3.82
+    },
+    {
+     "w": "be",
+     "start": 3.82,
+     "end": 3.98
+    },
+    {
+     "w": "worth",
+     "start": 3.98,
+     "end": 4.26
+    },
+    {
+     "w": "far",
+     "start": 4.26,
+     "end": 4.62
+    },
+    {
+     "w": "more",
+     "start": 4.62,
+     "end": 4.9
+    },
+    {
+     "w": "than",
+     "start": 4.9,
+     "end": 5.08
+    },
+    {
+     "w": "you",
+     "start": 5.08,
+     "end": 5.22
+    },
+    {
+     "w": "might",
+     "start": 5.22,
+     "end": 5.4
+    },
+    {
+     "w": "think.",
+     "start": 5.4,
+     "end": 5.9
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "start": 6.54,
+   "end": 9.5,
+   "words": [
+    {
+     "w": "Today,",
+     "start": 6.54,
+     "end": 6.9
+    },
+    {
+     "w": "we",
+     "start": 7.3,
+     "end": 7.44
+    },
+    {
+     "w": "find",
+     "start": 7.44,
+     "end": 7.74
+    },
+    {
+     "w": "salt",
+     "start": 7.74,
+     "end": 8.02
+    },
+    {
+     "w": "in",
+     "start": 8.02,
+     "end": 8.22
+    },
+    {
+     "w": "practically",
+     "start": 8.22,
+     "end": 8.62
+    },
+    {
+     "w": "every",
+     "start": 8.62,
+     "end": 9.12
+    },
+    {
+     "w": "kitchen.",
+     "start": 9.12,
+     "end": 9.5
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "start": 10.0,
+   "end": 15.12,
+   "words": [
+    {
+     "w": "But",
+     "start": 10.0,
+     "end": 10.26
+    },
+    {
+     "w": "in",
+     "start": 10.26,
+     "end": 10.38
+    },
+    {
+     "w": "the",
+     "start": 10.38,
+     "end": 10.48
+    },
+    {
+     "w": "past,",
+     "start": 10.48,
+     "end": 11.06
+    },
+    {
+     "w": "this",
+     "start": 11.44,
+     "end": 11.62
+    },
+    {
+     "w": "mineral",
+     "start": 11.62,
+     "end": 12.0
+    },
+    {
+     "w": "helped",
+     "start": 12.0,
+     "end": 12.32
+    },
+    {
+     "w": "generate",
+     "start": 12.32,
+     "end": 12.74
+    },
+    {
+     "w": "fortunes,",
+     "start": 12.74,
+     "end": 13.58
+    },
+    {
+     "w": "fuel",
+     "start": 13.84,
+     "end": 14.24
+    },
+    {
+     "w": "the",
+     "start": 14.24,
+     "end": 14.38
+    },
+    {
+     "w": "growth",
+     "start": 14.38,
+     "end": 14.58
+    },
+    {
+     "w": "of",
+     "start": 14.58,
+     "end": 14.74
+    },
+    {
+     "w": "cities,",
+     "start": 14.74,
+     "end": 15.12
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "start": 15.54,
+   "end": 18.32,
+   "words": [
+    {
+     "w": "and",
+     "start": 15.54,
+     "end": 15.82
+    },
+    {
+     "w": "transformed",
+     "start": 15.82,
+     "end": 16.42
+    },
+    {
+     "w": "trade",
+     "start": 16.42,
+     "end": 16.88
+    },
+    {
+     "w": "across",
+     "start": 16.88,
+     "end": 17.18
+    },
+    {
+     "w": "great",
+     "start": 17.18,
+     "end": 17.58
+    },
+    {
+     "w": "civilizations.",
+     "start": 17.58,
+     "end": 18.32
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "start": 18.92,
+   "end": 22.7,
+   "words": [
+    {
+     "w": "For",
+     "start": 18.92,
+     "end": 19.22
+    },
+    {
+     "w": "thousands",
+     "start": 19.22,
+     "end": 19.7
+    },
+    {
+     "w": "of",
+     "start": 19.7,
+     "end": 19.94
+    },
+    {
+     "w": "years,",
+     "start": 19.94,
+     "end": 20.36
+    },
+    {
+     "w": "preserving",
+     "start": 20.76,
+     "end": 21.02
+    },
+    {
+     "w": "food",
+     "start": 21.02,
+     "end": 21.44
+    },
+    {
+     "w": "was",
+     "start": 21.44,
+     "end": 21.68
+    },
+    {
+     "w": "a",
+     "start": 21.68,
+     "end": 21.86
+    },
+    {
+     "w": "huge",
+     "start": 21.8,
+     "end": 22.18
+    },
+    {
+     "w": "challenge.",
+     "start": 22.18,
+     "end": 22.7
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "start": 23.36,
+   "end": 26.4,
+   "words": [
+    {
+     "w": "Without",
+     "start": 23.36,
+     "end": 23.62
+    },
+    {
+     "w": "refrigerators,",
+     "start": 23.62,
+     "end": 24.52
+    },
+    {
+     "w": "meat",
+     "start": 25.02,
+     "end": 25.1
+    },
+    {
+     "w": "and",
+     "start": 25.1,
+     "end": 25.3
+    },
+    {
+     "w": "fish",
+     "start": 25.3,
+     "end": 25.54
+    },
+    {
+     "w": "spoiled",
+     "start": 25.54,
+     "end": 25.88
+    },
+    {
+     "w": "quickly.",
+     "start": 25.88,
+     "end": 26.4
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "start": 26.92,
+   "end": 30.66,
+   "words": [
+    {
+     "w": "Salt",
+     "start": 26.92,
+     "end": 27.28
+    },
+    {
+     "w": "changed",
+     "start": 27.28,
+     "end": 27.76
+    },
+    {
+     "w": "that,",
+     "start": 27.76,
+     "end": 27.98
+    },
+    {
+     "w": "allowing",
+     "start": 28.38,
+     "end": 28.64
+    },
+    {
+     "w": "food",
+     "start": 28.64,
+     "end": 29.02
+    },
+    {
+     "w": "to",
+     "start": 29.02,
+     "end": 29.18
+    },
+    {
+     "w": "be",
+     "start": 29.18,
+     "end": 29.28
+    },
+    {
+     "w": "preserved",
+     "start": 29.28,
+     "end": 29.66
+    },
+    {
+     "w": "for",
+     "start": 29.66,
+     "end": 29.92
+    },
+    {
+     "w": "much",
+     "start": 29.92,
+     "end": 30.24
+    },
+    {
+     "w": "longer,",
+     "start": 30.24,
+     "end": 30.66
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "start": 30.66,
+   "end": 34.1,
+   "words": [
+    {
+     "w": "and",
+     "start": 30.66,
+     "end": 31.12
+    },
+    {
+     "w": "becoming",
+     "start": 31.12,
+     "end": 31.42
+    },
+    {
+     "w": "essential",
+     "start": 31.42,
+     "end": 32.04
+    },
+    {
+     "w": "to",
+     "start": 32.04,
+     "end": 32.26
+    },
+    {
+     "w": "the",
+     "start": 32.26,
+     "end": 32.4
+    },
+    {
+     "w": "survival",
+     "start": 32.4,
+     "end": 32.84
+    },
+    {
+     "w": "of",
+     "start": 32.84,
+     "end": 33.06
+    },
+    {
+     "w": "entire",
+     "start": 33.06,
+     "end": 33.42
+    },
+    {
+     "w": "communities.",
+     "start": 33.42,
+     "end": 34.1
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "start": 34.68,
+   "end": 37.38,
+   "words": [
+    {
+     "w": "As",
+     "start": 34.68,
+     "end": 34.86
+    },
+    {
+     "w": "cities",
+     "start": 34.86,
+     "end": 35.2
+    },
+    {
+     "w": "grew,",
+     "start": 35.2,
+     "end": 35.54
+    },
+    {
+     "w": "the",
+     "start": 35.94,
+     "end": 36.0
+    },
+    {
+     "w": "demand",
+     "start": 36.0,
+     "end": 36.32
+    },
+    {
+     "w": "for",
+     "start": 36.32,
+     "end": 36.54
+    },
+    {
+     "w": "salt",
+     "start": 36.54,
+     "end": 36.84
+    },
+    {
+     "w": "increased.",
+     "start": 36.84,
+     "end": 37.38
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "start": 38.18,
+   "end": 41.18,
+   "words": [
+    {
+     "w": "Regions",
+     "start": 38.18,
+     "end": 38.48
+    },
+    {
+     "w": "with",
+     "start": 38.48,
+     "end": 38.74
+    },
+    {
+     "w": "large",
+     "start": 38.74,
+     "end": 39.06
+    },
+    {
+     "w": "natural",
+     "start": 39.06,
+     "end": 39.56
+    },
+    {
+     "w": "deposits",
+     "start": 39.56,
+     "end": 40.06
+    },
+    {
+     "w": "became",
+     "start": 40.06,
+     "end": 40.44
+    },
+    {
+     "w": "more",
+     "start": 40.44,
+     "end": 40.72
+    },
+    {
+     "w": "important,",
+     "start": 40.72,
+     "end": 41.18
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "start": 41.54,
+   "end": 44.96,
+   "words": [
+    {
+     "w": "while",
+     "start": 41.54,
+     "end": 41.9
+    },
+    {
+     "w": "merchants",
+     "start": 41.9,
+     "end": 42.26
+    },
+    {
+     "w": "transported",
+     "start": 42.26,
+     "end": 43.0
+    },
+    {
+     "w": "this",
+     "start": 43.0,
+     "end": 43.3
+    },
+    {
+     "w": "resource",
+     "start": 43.3,
+     "end": 43.7
+    },
+    {
+     "w": "over",
+     "start": 43.7,
+     "end": 44.06
+    },
+    {
+     "w": "long",
+     "start": 44.06,
+     "end": 44.38
+    },
+    {
+     "w": "distances,",
+     "start": 44.38,
+     "end": 44.96
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "start": 45.56,
+   "end": 48.76,
+   "words": [
+    {
+     "w": "crossing",
+     "start": 45.56,
+     "end": 45.86
+    },
+    {
+     "w": "deserts,",
+     "start": 45.86,
+     "end": 46.5
+    },
+    {
+     "w": "mountains,",
+     "start": 46.8,
+     "end": 47.08
+    },
+    {
+     "w": "and",
+     "start": 47.42,
+     "end": 47.72
+    },
+    {
+     "w": "dangerous",
+     "start": 47.72,
+     "end": 48.16
+    },
+    {
+     "w": "trade",
+     "start": 48.16,
+     "end": 48.5
+    },
+    {
+     "w": "routes.",
+     "start": 48.5,
+     "end": 48.76
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "start": 49.38,
+   "end": 53.6,
+   "words": [
+    {
+     "w": "In",
+     "start": 49.38,
+     "end": 49.6
+    },
+    {
+     "w": "ancient",
+     "start": 49.6,
+     "end": 49.96
+    },
+    {
+     "w": "Rome,",
+     "start": 49.96,
+     "end": 50.42
+    },
+    {
+     "w": "salt",
+     "start": 50.98,
+     "end": 51.1
+    },
+    {
+     "w": "held",
+     "start": 51.1,
+     "end": 51.32
+    },
+    {
+     "w": "great",
+     "start": 51.32,
+     "end": 51.68
+    },
+    {
+     "w": "economic",
+     "start": 51.68,
+     "end": 52.28
+    },
+    {
+     "w": "and",
+     "start": 52.28,
+     "end": 52.52
+    },
+    {
+     "w": "strategic",
+     "start": 52.52,
+     "end": 53.1
+    },
+    {
+     "w": "importance.",
+     "start": 53.1,
+     "end": 53.6
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "start": 54.19,
+   "end": 61.16,
+   "words": [
+    {
+     "w": "One",
+     "start": 54.19,
+     "end": 54.5
+    },
+    {
+     "w": "of",
+     "start": 54.5,
+     "end": 54.62
+    },
+    {
+     "w": "the",
+     "start": 54.62,
+     "end": 54.78
+    },
+    {
+     "w": "ancient",
+     "start": 54.78,
+     "end": 55.1
+    },
+    {
+     "w": "routes",
+     "start": 55.1,
+     "end": 55.38
+    },
+    {
+     "w": "associated",
+     "start": 55.38,
+     "end": 56.04
+    },
+    {
+     "w": "with",
+     "start": 56.04,
+     "end": 56.36
+    },
+    {
+     "w": "its",
+     "start": 56.36,
+     "end": 56.54
+    },
+    {
+     "w": "trade",
+     "start": 56.54,
+     "end": 56.84
+    },
+    {
+     "w": "became",
+     "start": 56.84,
+     "end": 57.22
+    },
+    {
+     "w": "known",
+     "start": 57.22,
+     "end": 57.54
+    },
+    {
+     "w": "as",
+     "start": 57.54,
+     "end": 57.78
+    },
+    {
+     "w": "the",
+     "start": 57.78,
+     "end": 57.9
+    },
+    {
+     "w": "Via",
+     "start": 57.9,
+     "end": 58.16
+    },
+    {
+     "w": "Salaria",
+     "start": 59.44,
+     "end": 59.68
+    },
+    {
+     "w": "—",
+     "start": 59.68,
+     "end": 59.86
+    },
+    {
+     "w": "the",
+     "start": 60.58,
+     "end": 60.8
+    },
+    {
+     "w": "Salt",
+     "start": 60.8,
+     "end": 60.98
+    },
+    {
+     "w": "Road.",
+     "start": 60.98,
+     "end": 61.16
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "start": 61.16,
+   "end": 65.88,
+   "words": [
+    {
+     "w": "The",
+     "start": 61.16,
+     "end": 61.34
+    },
+    {
+     "w": "mineral",
+     "start": 60.8,
+     "end": 61.1
+    },
+    {
+     "w": "was",
+     "start": 61.1,
+     "end": 61.38
+    },
+    {
+     "w": "used",
+     "start": 61.38,
+     "end": 61.6
+    },
+    {
+     "w": "to",
+     "start": 61.6,
+     "end": 61.78
+    },
+    {
+     "w": "preserve",
+     "start": 61.78,
+     "end": 62.08
+    },
+    {
+     "w": "food",
+     "start": 62.08,
+     "end": 62.5
+    },
+    {
+     "w": "and",
+     "start": 62.5,
+     "end": 62.94
+    },
+    {
+     "w": "played",
+     "start": 62.94,
+     "end": 63.16
+    },
+    {
+     "w": "a",
+     "start": 63.16,
+     "end": 63.34
+    },
+    {
+     "w": "role",
+     "start": 63.32,
+     "end": 63.5
+    },
+    {
+     "w": "in",
+     "start": 63.5,
+     "end": 63.68
+    },
+    {
+     "w": "a",
+     "start": 63.68,
+     "end": 63.86
+    },
+    {
+     "w": "trading",
+     "start": 63.76,
+     "end": 64.06
+    },
+    {
+     "w": "network",
+     "start": 64.06,
+     "end": 64.46
+    },
+    {
+     "w": "that",
+     "start": 64.46,
+     "end": 64.7
+    },
+    {
+     "w": "connected",
+     "start": 64.7,
+     "end": 65.02
+    },
+    {
+     "w": "different",
+     "start": 65.02,
+     "end": 65.42
+    },
+    {
+     "w": "regions.",
+     "start": 65.42,
+     "end": 65.88
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "start": 66.36,
+   "end": 69.16,
+   "words": [
+    {
+     "w": "But",
+     "start": 66.36,
+     "end": 66.58
+    },
+    {
+     "w": "the",
+     "start": 66.58,
+     "end": 66.72
+    },
+    {
+     "w": "true",
+     "start": 66.72,
+     "end": 67.02
+    },
+    {
+     "w": "power",
+     "start": 67.02,
+     "end": 67.36
+    },
+    {
+     "w": "of",
+     "start": 67.36,
+     "end": 67.52
+    },
+    {
+     "w": "salt",
+     "start": 67.52,
+     "end": 67.82
+    },
+    {
+     "w": "wasn't",
+     "start": 67.82,
+     "end": 68.32
+    },
+    {
+     "w": "just",
+     "start": 68.32,
+     "end": 68.56
+    },
+    {
+     "w": "in",
+     "start": 68.56,
+     "end": 68.74
+    },
+    {
+     "w": "the",
+     "start": 68.74,
+     "end": 68.84
+    },
+    {
+     "w": "kitchen.",
+     "start": 68.84,
+     "end": 69.16
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "start": 69.94,
+   "end": 76.64,
+   "words": [
+    {
+     "w": "Those",
+     "start": 69.94,
+     "end": 70.12
+    },
+    {
+     "w": "who",
+     "start": 70.12,
+     "end": 70.32
+    },
+    {
+     "w": "controlled",
+     "start": 70.32,
+     "end": 70.7
+    },
+    {
+     "w": "production,",
+     "start": 70.7,
+     "end": 71.2
+    },
+    {
+     "w": "transportation",
+     "start": 71.66,
+     "end": 72.04
+    },
+    {
+     "w": "routes,",
+     "start": 72.04,
+     "end": 72.66
+    },
+    {
+     "w": "or",
+     "start": 72.88,
+     "end": 73.18
+    },
+    {
+     "w": "trading",
+     "start": 73.18,
+     "end": 73.52
+    },
+    {
+     "w": "points",
+     "start": 73.52,
+     "end": 73.92
+    },
+    {
+     "w": "could",
+     "start": 73.92,
+     "end": 74.4
+    },
+    {
+     "w": "influence",
+     "start": 74.4,
+     "end": 74.96
+    },
+    {
+     "w": "prices",
+     "start": 74.96,
+     "end": 75.46
+    },
+    {
+     "w": "and",
+     "start": 75.46,
+     "end": 75.92
+    },
+    {
+     "w": "collect",
+     "start": 75.92,
+     "end": 76.26
+    },
+    {
+     "w": "revenue.",
+     "start": 76.26,
+     "end": 76.64
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "start": 77.2,
+   "end": 82.36,
+   "words": [
+    {
+     "w": "In",
+     "start": 77.2,
+     "end": 77.38
+    },
+    {
+     "w": "certain",
+     "start": 77.38,
+     "end": 77.74
+    },
+    {
+     "w": "periods",
+     "start": 77.74,
+     "end": 78.2
+    },
+    {
+     "w": "and",
+     "start": 78.2,
+     "end": 78.4
+    },
+    {
+     "w": "places,",
+     "start": 78.4,
+     "end": 78.82
+    },
+    {
+     "w": "rulers",
+     "start": 79.46,
+     "end": 79.6
+    },
+    {
+     "w": "imposed",
+     "start": 79.6,
+     "end": 80.06
+    },
+    {
+     "w": "taxes",
+     "start": 80.06,
+     "end": 80.62
+    },
+    {
+     "w": "and",
+     "start": 80.62,
+     "end": 81.04
+    },
+    {
+     "w": "monopolies",
+     "start": 81.04,
+     "end": 81.7
+    },
+    {
+     "w": "on",
+     "start": 81.7,
+     "end": 81.8
+    },
+    {
+     "w": "this",
+     "start": 81.8,
+     "end": 82.0
+    },
+    {
+     "w": "resource,",
+     "start": 82.0,
+     "end": 82.36
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "start": 83.04,
+   "end": 85.06,
+   "words": [
+    {
+     "w": "turning",
+     "start": 83.04,
+     "end": 83.3
+    },
+    {
+     "w": "it",
+     "start": 83.3,
+     "end": 83.5
+    },
+    {
+     "w": "into",
+     "start": 83.5,
+     "end": 83.78
+    },
+    {
+     "w": "an",
+     "start": 83.78,
+     "end": 83.88
+    },
+    {
+     "w": "important",
+     "start": 83.88,
+     "end": 84.26
+    },
+    {
+     "w": "source",
+     "start": 84.26,
+     "end": 84.56
+    },
+    {
+     "w": "of",
+     "start": 84.56,
+     "end": 84.82
+    },
+    {
+     "w": "wealth.",
+     "start": 84.82,
+     "end": 85.06
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "start": 85.6,
+   "end": 93.12,
+   "words": [
+    {
+     "w": "In",
+     "start": 85.6,
+     "end": 85.86
+    },
+    {
+     "w": "some",
+     "start": 85.86,
+     "end": 86.06
+    },
+    {
+     "w": "societies,",
+     "start": 86.06,
+     "end": 86.68
+    },
+    {
+     "w": "salt",
+     "start": 87.14,
+     "end": 87.24
+    },
+    {
+     "w": "also",
+     "start": 87.24,
+     "end": 87.66
+    },
+    {
+     "w": "took",
+     "start": 87.66,
+     "end": 87.9
+    },
+    {
+     "w": "on",
+     "start": 87.9,
+     "end": 88.1
+    },
+    {
+     "w": "symbolic",
+     "start": 88.1,
+     "end": 88.54
+    },
+    {
+     "w": "meaning,",
+     "start": 88.54,
+     "end": 89.0
+    },
+    {
+     "w": "associated",
+     "start": 89.5,
+     "end": 90.02
+    },
+    {
+     "w": "with",
+     "start": 90.02,
+     "end": 90.32
+    },
+    {
+     "w": "hospitality,",
+     "start": 90.32,
+     "end": 90.96
+    },
+    {
+     "w": "agreements,",
+     "start": 91.62,
+     "end": 91.98
+    },
+    {
+     "w": "and",
+     "start": 92.42,
+     "end": 92.52
+    },
+    {
+     "w": "preservation.",
+     "start": 92.52,
+     "end": 93.12
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "start": 93.8,
+   "end": 98.52,
+   "words": [
+    {
+     "w": "Its",
+     "start": 93.8,
+     "end": 94.08
+    },
+    {
+     "w": "value",
+     "start": 94.08,
+     "end": 94.42
+    },
+    {
+     "w": "varied",
+     "start": 94.42,
+     "end": 94.84
+    },
+    {
+     "w": "depending",
+     "start": 94.84,
+     "end": 95.2
+    },
+    {
+     "w": "on",
+     "start": 95.2,
+     "end": 95.42
+    },
+    {
+     "w": "the",
+     "start": 95.42,
+     "end": 95.54
+    },
+    {
+     "w": "region,",
+     "start": 95.54,
+     "end": 95.9
+    },
+    {
+     "w": "availability,",
+     "start": 96.32,
+     "end": 96.82
+    },
+    {
+     "w": "and",
+     "start": 97.32,
+     "end": 97.42
+    },
+    {
+     "w": "transportation",
+     "start": 97.42,
+     "end": 97.9
+    },
+    {
+     "w": "costs.",
+     "start": 97.9,
+     "end": 98.52
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "start": 99.08,
+   "end": 102.28,
+   "words": [
+    {
+     "w": "Where",
+     "start": 99.08,
+     "end": 99.36
+    },
+    {
+     "w": "it",
+     "start": 99.36,
+     "end": 99.5
+    },
+    {
+     "w": "was",
+     "start": 99.5,
+     "end": 99.6
+    },
+    {
+     "w": "scarce,",
+     "start": 99.6,
+     "end": 100.02
+    },
+    {
+     "w": "it",
+     "start": 100.38,
+     "end": 100.56
+    },
+    {
+     "w": "could",
+     "start": 100.56,
+     "end": 100.68
+    },
+    {
+     "w": "become",
+     "start": 100.68,
+     "end": 100.98
+    },
+    {
+     "w": "especially",
+     "start": 100.98,
+     "end": 101.6
+    },
+    {
+     "w": "expensive.",
+     "start": 101.6,
+     "end": 102.28
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "start": 102.9,
+   "end": 109.06,
+   "words": [
+    {
+     "w": "Over",
+     "start": 102.9,
+     "end": 103.14
+    },
+    {
+     "w": "the",
+     "start": 103.14,
+     "end": 103.26
+    },
+    {
+     "w": "centuries,",
+     "start": 103.26,
+     "end": 103.76
+    },
+    {
+     "w": "new",
+     "start": 104.24,
+     "end": 104.3
+    },
+    {
+     "w": "trade",
+     "start": 104.3,
+     "end": 104.64
+    },
+    {
+     "w": "routes,",
+     "start": 104.64,
+     "end": 104.94
+    },
+    {
+     "w": "production",
+     "start": 105.4,
+     "end": 105.7
+    },
+    {
+     "w": "techniques,",
+     "start": 105.7,
+     "end": 106.22
+    },
+    {
+     "w": "and",
+     "start": 106.54,
+     "end": 106.8
+    },
+    {
+     "w": "sources",
+     "start": 106.8,
+     "end": 107.2
+    },
+    {
+     "w": "of",
+     "start": 107.2,
+     "end": 107.56
+    },
+    {
+     "w": "supply",
+     "start": 107.56,
+     "end": 107.86
+    },
+    {
+     "w": "transformed",
+     "start": 107.86,
+     "end": 108.6
+    },
+    {
+     "w": "the",
+     "start": 108.6,
+     "end": 108.74
+    },
+    {
+     "w": "market.",
+     "start": 108.74,
+     "end": 109.06
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "start": 109.9,
+   "end": 112.5,
+   "words": [
+    {
+     "w": "Salt",
+     "start": 109.9,
+     "end": 110.02
+    },
+    {
+     "w": "became",
+     "start": 110.02,
+     "end": 110.38
+    },
+    {
+     "w": "more",
+     "start": 110.38,
+     "end": 110.68
+    },
+    {
+     "w": "accessible",
+     "start": 110.68,
+     "end": 111.18
+    },
+    {
+     "w": "in",
+     "start": 111.18,
+     "end": 111.46
+    },
+    {
+     "w": "many",
+     "start": 111.46,
+     "end": 111.68
+    },
+    {
+     "w": "parts",
+     "start": 111.68,
+     "end": 111.9
+    },
+    {
+     "w": "of",
+     "start": 111.9,
+     "end": 112.08
+    },
+    {
+     "w": "the",
+     "start": 112.08,
+     "end": 112.16
+    },
+    {
+     "w": "world,",
+     "start": 112.16,
+     "end": 112.5
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "start": 112.78,
+   "end": 116.1,
+   "words": [
+    {
+     "w": "although",
+     "start": 112.78,
+     "end": 113.16
+    },
+    {
+     "w": "it",
+     "start": 113.16,
+     "end": 113.32
+    },
+    {
+     "w": "continued",
+     "start": 113.32,
+     "end": 113.8
+    },
+    {
+     "w": "to",
+     "start": 113.8,
+     "end": 113.98
+    },
+    {
+     "w": "play",
+     "start": 113.98,
+     "end": 114.2
+    },
+    {
+     "w": "an",
+     "start": 114.2,
+     "end": 114.32
+    },
+    {
+     "w": "essential",
+     "start": 114.32,
+     "end": 114.76
+    },
+    {
+     "w": "role",
+     "start": 114.76,
+     "end": 115.06
+    },
+    {
+     "w": "in",
+     "start": 115.06,
+     "end": 115.28
+    },
+    {
+     "w": "food",
+     "start": 115.28,
+     "end": 115.5
+    },
+    {
+     "w": "and",
+     "start": 115.5,
+     "end": 115.68
+    },
+    {
+     "w": "industry.",
+     "start": 115.68,
+     "end": 116.1
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "start": 116.62,
+   "end": 122.78,
+   "words": [
+    {
+     "w": "It's",
+     "start": 116.62,
+     "end": 116.96
+    },
+    {
+     "w": "amazing",
+     "start": 116.96,
+     "end": 117.42
+    },
+    {
+     "w": "to",
+     "start": 117.42,
+     "end": 117.62
+    },
+    {
+     "w": "think",
+     "start": 117.62,
+     "end": 117.88
+    },
+    {
+     "w": "that",
+     "start": 117.88,
+     "end": 118.06
+    },
+    {
+     "w": "such",
+     "start": 118.06,
+     "end": 118.36
+    },
+    {
+     "w": "a",
+     "start": 118.36,
+     "end": 118.54
+    },
+    {
+     "w": "common",
+     "start": 118.46,
+     "end": 118.86
+    },
+    {
+     "w": "mineral",
+     "start": 118.86,
+     "end": 119.3
+    },
+    {
+     "w": "once",
+     "start": 119.3,
+     "end": 119.74
+    },
+    {
+     "w": "had",
+     "start": 119.74,
+     "end": 119.92
+    },
+    {
+     "w": "so",
+     "start": 119.92,
+     "end": 120.28
+    },
+    {
+     "w": "much",
+     "start": 120.28,
+     "end": 120.52
+    },
+    {
+     "w": "influence",
+     "start": 120.52,
+     "end": 120.98
+    },
+    {
+     "w": "on",
+     "start": 120.98,
+     "end": 121.2
+    },
+    {
+     "w": "the",
+     "start": 121.2,
+     "end": 121.3
+    },
+    {
+     "w": "economy",
+     "start": 121.3,
+     "end": 121.74
+    },
+    {
+     "w": "and",
+     "start": 121.74,
+     "end": 122.1
+    },
+    {
+     "w": "people's",
+     "start": 122.1,
+     "end": 122.52
+    },
+    {
+     "w": "lives.",
+     "start": 122.52,
+     "end": 122.78
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "start": 123.68,
+   "end": 125.46,
+   "words": [
+    {
+     "w": "Salt",
+     "start": 123.68,
+     "end": 123.8
+    },
+    {
+     "w": "didn't",
+     "start": 123.8,
+     "end": 124.14
+    },
+    {
+     "w": "build",
+     "start": 124.14,
+     "end": 124.38
+    },
+    {
+     "w": "empires",
+     "start": 124.38,
+     "end": 124.8
+    },
+    {
+     "w": "on",
+     "start": 124.8,
+     "end": 125.02
+    },
+    {
+     "w": "its",
+     "start": 125.02,
+     "end": 125.16
+    },
+    {
+     "w": "own,",
+     "start": 125.16,
+     "end": 125.46
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "start": 125.94,
+   "end": 132.3,
+   "words": [
+    {
+     "w": "but",
+     "start": 125.94,
+     "end": 126.06
+    },
+    {
+     "w": "it",
+     "start": 126.06,
+     "end": 126.16
+    },
+    {
+     "w": "helped",
+     "start": 126.16,
+     "end": 126.42
+    },
+    {
+     "w": "feed",
+     "start": 126.42,
+     "end": 126.74
+    },
+    {
+     "w": "populations,",
+     "start": 126.74,
+     "end": 127.46
+    },
+    {
+     "w": "sustain",
+     "start": 128.1,
+     "end": 128.4
+    },
+    {
+     "w": "trade,",
+     "start": 128.4,
+     "end": 128.96
+    },
+    {
+     "w": "and",
+     "start": 129.4,
+     "end": 129.62
+    },
+    {
+     "w": "strengthen",
+     "start": 129.62,
+     "end": 130.06
+    },
+    {
+     "w": "the",
+     "start": 130.06,
+     "end": 130.3
+    },
+    {
+     "w": "power",
+     "start": 130.3,
+     "end": 130.62
+    },
+    {
+     "w": "of",
+     "start": 130.62,
+     "end": 130.8
+    },
+    {
+     "w": "those",
+     "start": 130.8,
+     "end": 131.04
+    },
+    {
+     "w": "who",
+     "start": 131.04,
+     "end": 131.22
+    },
+    {
+     "w": "managed",
+     "start": 131.22,
+     "end": 131.5
+    },
+    {
+     "w": "to",
+     "start": 131.5,
+     "end": 131.7
+    },
+    {
+     "w": "control",
+     "start": 131.7,
+     "end": 132.06
+    },
+    {
+     "w": "it.",
+     "start": 132.06,
+     "end": 132.3
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "start": 132.68,
+   "end": 136.48,
+   "words": [
+    {
+     "w": "And",
+     "start": 132.68,
+     "end": 132.72
+    },
+    {
+     "w": "the",
+     "start": 132.72,
+     "end": 132.86
+    },
+    {
+     "w": "next",
+     "start": 132.86,
+     "end": 133.2
+    },
+    {
+     "w": "time",
+     "start": 133.2,
+     "end": 133.46
+    },
+    {
+     "w": "you",
+     "start": 133.46,
+     "end": 133.66
+    },
+    {
+     "w": "sprinkle",
+     "start": 133.66,
+     "end": 134.04
+    },
+    {
+     "w": "salt",
+     "start": 134.04,
+     "end": 134.42
+    },
+    {
+     "w": "on",
+     "start": 134.42,
+     "end": 134.66
+    },
+    {
+     "w": "your",
+     "start": 134.66,
+     "end": 134.8
+    },
+    {
+     "w": "food,",
+     "start": 134.8,
+     "end": 135.2
+    },
+    {
+     "w": "remember",
+     "start": 135.82,
+     "end": 136.3
+    },
+    {
+     "w": "—",
+     "start": 136.3,
+     "end": 136.48
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "start": 137.04,
+   "end": 146.02,
+   "words": [
+    {
+     "w": "what",
+     "start": 137.04,
+     "end": 137.26
+    },
+    {
+     "w": "seems",
+     "start": 137.26,
+     "end": 137.68
+    },
+    {
+     "w": "insignificant",
+     "start": 137.68,
+     "end": 138.5
+    },
+    {
+     "w": "today",
+     "start": 138.5,
+     "end": 139.14
+    },
+    {
+     "w": "was",
+     "start": 139.14,
+     "end": 139.58
+    },
+    {
+     "w": "once",
+     "start": 139.58,
+     "end": 139.92
+    },
+    {
+     "w": "a",
+     "start": 139.92,
+     "end": 140.1
+    },
+    {
+     "w": "strategic",
+     "start": 140.06,
+     "end": 140.66
+    },
+    {
+     "w": "resource",
+     "start": 140.66,
+     "end": 141.26
+    },
+    {
+     "w": "capable",
+     "start": 141.26,
+     "end": 142.06
+    },
+    {
+     "w": "of",
+     "start": 142.06,
+     "end": 142.38
+    },
+    {
+     "w": "making",
+     "start": 142.38,
+     "end": 142.62
+    },
+    {
+     "w": "the",
+     "start": 142.62,
+     "end": 142.84
+    },
+    {
+     "w": "difference",
+     "start": 142.84,
+     "end": 143.14
+    },
+    {
+     "w": "between",
+     "start": 143.14,
+     "end": 143.56
+    },
+    {
+     "w": "wealth,",
+     "start": 143.56,
+     "end": 144.04
+    },
+    {
+     "w": "survival,",
+     "start": 144.54,
+     "end": 145.02
+    },
+    {
+     "w": "and",
+     "start": 145.32,
+     "end": 145.54
+    },
+    {
+     "w": "power.",
+     "start": 145.54,
+     "end": 146.02
+    }
+   ]
+  }
+ ]
+}
