@@ -1,38 +1,11 @@
-# Dependencies
+# APENAS node_modules é excluído (tamanho impossível para GitHub)
+# Todo o resto é incluído — áudio, stills, episodes, scripts, tudo.
 node_modules/
-
-# Build outputs
-out/bundle/
-out/stills/
-out/renders/
-
-# Rendered videos (ficheiros muito pesados)
-episodes/*/out/
-*.mp4
-*.mov
-
-# Áudio gerado/pesado (pode ser regenerado com npm run sound)
-public/ep1/mix.wav
-public/ep1/bed.wav
-public/ep2/mix.wav
-public/ep2/bed.wav
-public/ep1long/mix.wav
-public/ep1long/bed.wav
-public/ep1long/voice.wav
-# Os voice.wav de ep1 e ep2 são mantidos (áudio do utilizador)
-
-# Whisper cache
-*.pyc
-__pycache__/
 
 # OS
 .DS_Store
 Thumbs.db
 
-# Remotion
-.remotion/
-
-# Temp
-*.tmp
-*.log
-out/stills/prop_*.json
+# Python cache
+*.pyc
+__pycache__/
